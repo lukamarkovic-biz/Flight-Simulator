@@ -1,0 +1,12 @@
+*.class
+*.jar
+/bin/
+/out/
+
+.vscode/
+.idea/
+*.iml
+*.project
+
+.DS_Store
+Thumbs.db
